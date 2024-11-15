@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AChaitanya3143
+- 👋 Hi, I’m @Chaitanya
 - 👀 I’m interested in Data Analysing
 - 🌱 I’m currently learning React.js/React-Native
 - 💞️ I’m looking to collaborate on Anyone 
