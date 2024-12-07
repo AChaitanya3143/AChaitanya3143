@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaitanya
 - 👀 I’m interested in Data Analysing
 - 🌱 I’m currently learning React.js/React-Native
-- 💞️ I’m looking to collaborate on Anyone 
+- 💞️ I’m looking to collaborate with Anyone 
 - 📫 How to reach me Mail me on sujithome009@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Have started My journy since when I was 13 from 8th Grade
