@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaitanya
-- 👀 I’m interested in Data Analysing
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning React.js/React-Native
 - 💞️ I’m looking to collaborate with Anyone 
 - 📫 How to reach me Mail me on sujithome009@gmail.com
