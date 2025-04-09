@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning React.js/React-Native
 - 💞️ I’m looking to collaborate with Anyone 
-- 📫 How to reach me Mail me on sujithome009@gmail.com
+- 📫 How to reach me Mail me on chaitanya.ac@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Have started My journy since when I was 13 from 8th Grade
 
